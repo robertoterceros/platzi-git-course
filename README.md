@@ -5,3 +5,5 @@ Curso creado por el increible platzi team
 Curso creado por el increible platzi team
 Incluye ejemplos en windows, linux y max
 Disponible para todas las edades
+
+este es un error, necesito quitarlo
